@@ -2,7 +2,7 @@
 
 Utiliser SCSS pour créer une carte dans React
 
-![](/Users/pilgrim/Dev/wcs/reactstudy/react-card/public/Screenshot 2023-12-04 at 11.53.58.png)
+![](https://github.com/nyukeit/react-card/blob/main/public/Screenshot%202023-12-04%20at%2011.53.58.png)
 
 ### Pourquoi j'utilise SASS?
 
